@@ -1,0 +1,5 @@
+Model,Accuracy,F1 Macro,Log Loss
+XGBoost,0.5798,0.4458,0.9152
+Logistic Regression,0.5793,0.4274,0.9012
+Random Forest,0.5784,0.4223,0.9082
+MLP (Neural Net),0.5754,0.4185,0.9118
