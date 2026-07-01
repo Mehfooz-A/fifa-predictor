@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data files
+data/raw/fifa_ranking.csv
+data/raw/goalscorers.csv
+data/raw/results.csv
+data/processed/
+
+# Outputs
+outputs/
+
+# Temp files
+requirements_full.txt
