@@ -10,7 +10,6 @@ __pycache__/
 data/raw/fifa_ranking.csv
 data/raw/goalscorers.csv
 data/raw/results.csv
-data/processed/
 
 # Outputs
 outputs/
